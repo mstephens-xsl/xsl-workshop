@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:feed xmlns:atom="http://www.w3.org/2005/Atom">
+   <atom:title>Syndication Manager</atom:title>
+   <atom:subtitle>Generated at 2015-05-13+01:00</atom:subtitle>
+   <atom:link href="http://www.bbc.co.uk/syndication-manager/" rel="self"/>
+   <atom:link href="http://www.bbc.co.uk/syndication-manager/"/>
+   <atom:id>tag:bbc.co.uk,d1e1:/syndication-manager/</atom:id>
+   <atom:updated>2015-05-13T16:45:00.337+01:00</atom:updated>
+   <atom:author>
+      <atom:name>Syndication Manager</atom:name>
+      <atom:email>syndication-manager@bbc.co.uk</atom:email>
+   </atom:author>
+   <atom:entry>
+      <atom:content type="xhtml">
+         <div>
+            <table typeof="matchDetails">
+               <tr>
+                  <td property="comment">The date of the match</td>
+                  <td property="startDate">2015-04-28</td>
+               </tr>
+               <tr>
+                  <td property="comment">The ground where the match was played.</td>
+                  <td property="location">Anfield</td>
+                  <div property="match">
+                     <table vocab="http://www.bbc.co.uk/2012/syndication-manager/"
+                            typeof="matchResult"/>
+                     <tr property="team">
+                        <td property="name">Liverpool</td>
+                        <td property="goals">100</td>
+                        <td property="summary">Had a good game.</td>
+                        <td property="homeOrAway">Liverpool</td>
+                     </tr>
+                     <tr property="team">
+                        <td property="name">Stoke</td>
+                        <td property="goals">1</td>
+                        <td property="summary">Had a bad game.</td>
+                        <td property="homeOrAway">Stoke</td>
+                     </tr>
+                  </div>
+               </tr>
+            </table>
+         </div>
+      </atom:content>
+   </atom:entry>
+   <atom:entry>
+      <atom:content type="xhtml">
+         <div>
+            <table typeof="matchDetails">
+               <tr>
+                  <td property="comment">The date of the match</td>
+                  <td property="startDate">2015-04-28</td>
+               </tr>
+               <tr>
+                  <td property="comment">The ground where the match was played.</td>
+                  <td property="location">Goodison Park</td>
+                  <div property="match">
+                     <table vocab="http://www.bbc.co.uk/2012/syndication-manager/"
+                            typeof="matchResult"/>
+                     <tr property="team">
+                        <td property="name">Everton</td>
+                        <td property="goals">10</td>
+                        <td property="summary">Had a good game.</td>
+                        <td property="homeOrAway">Everton</td>
+                     </tr>
+                     <tr property="team">
+                        <td property="name">Chelsea</td>
+                        <td property="goals">1</td>
+                        <td property="summary">Had a disastrous game.</td>
+                        <td property="homeOrAway">Chelsea</td>
+                     </tr>
+                  </div>
+               </tr>
+            </table>
+         </div>
+      </atom:content>
+   </atom:entry>
+   <atom:entry>
+      <atom:content type="xhtml">
+         <div>
+            <table typeof="matchDetails">
+               <tr>
+                  <td property="comment">The date of the match</td>
+                  <td property="startDate">2015-04-28</td>
+               </tr>
+               <tr>
+                  <td property="comment">The ground where the match was played.</td>
+                  <td property="location">Crown Ground</td>
+                  <div property="match">
+                     <table vocab="http://www.bbc.co.uk/2012/syndication-manager/"
+                            typeof="matchResult"/>
+                     <tr property="team">
+                        <td property="name">Accrington Stanley</td>
+                        <td property="goals">10</td>
+                        <td property="summary">Who are they.</td>
+                        <td property="homeOrAway">Accrington Stanley</td>
+                     </tr>
+                     <tr property="team">
+                        <td property="name">Manchester United</td>
+                        <td property="goals">1</td>
+                        <td property="summary">Played like hell.</td>
+                        <td property="homeOrAway">Manchester United</td>
+                     </tr>
+                  </div>
+               </tr>
+            </table>
+         </div>
+      </atom:content>
+   </atom:entry>
+</atom:feed>

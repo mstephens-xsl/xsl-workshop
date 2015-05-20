@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<footballResults>
+    <footballResult date="2015-04-28" location="Anfield" updateTime="2015-04-28T15:00Z">
+        <team name="Liverpool" goalsScored="100" side="H">
+            <summary>Had a good game.</summary>
+        </team>
+        <team name="Stoke" goalsScored="1" side="A">
+            <summary>Had a bad game.</summary>
+        </team>
+    </footballResult>
+    <footballResult date="2015-04-28" location="Goodison Park" updateTime="2015-04-28T15:30Z">
+        <team name="Everton" goalsScored="10" side="H">
+            <summary>Had a good game.</summary>
+        </team>
+        <team name="Chelsea" goalsScored="1" side="A">
+            <summary>Had a disastrous game.</summary>
+        </team>
+    </footballResult>
+    <footballResult date="2015-04-28" location="Crown Ground" updateTime="2015-04-28T16:30Z">
+        <team name="Accrington Stanley" goalsScored="10" side="H">
+            <summary>Who are they.</summary>
+        </team>
+        <team name="Manchester United" goalsScored="1" side="A">
+            <summary>Played like hell.</summary>
+        </team>
+    </footballResult>
+</footballResults>

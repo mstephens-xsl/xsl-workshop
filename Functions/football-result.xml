@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<footballResults>
+    <footballResult date="2015-04-28" location="Anfield" updateTime="2015-04-28T15:00Z">
+        <team name="Liverpool" goalsScored="100" side="H">
+            <summary>Had a good game.</summary>
+        </team>
+        <team name="Stoke" goalsScored="1" side="A">
+            <summary>Had a bad game.</summary>
+        </team>
+    </footballResult>
+</footballResults>

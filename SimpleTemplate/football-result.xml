@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated 2015-04-28 -->
+
 <footballResults>
     <footballResult date="2015-04-28" location="Anfield" updateTime="2015-04-28T15:00Z">
         <team name="Liverpool" goalsScored="100" side="H">

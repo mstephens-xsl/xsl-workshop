@@ -21,7 +21,7 @@
                 <atom:name>Syndication Manager</atom:name>
                 <atom:email>syndication-manager@bbc.co.uk</atom:email>
             </atom:author>
-            <xsl:apply-templates select="footballResult"/>
+            
         </atom:feed>
     </xsl:template>
     

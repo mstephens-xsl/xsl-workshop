@@ -43,13 +43,13 @@
                                                     <xsl:value-of select="//@name"/>
                                                 </td>
                                                 <td property="goals">
-                                                    <xsl:value-of select="//footballResult//@goalsScored"/>
+                                                    <xsl:value-of select="//footballResult//team//@goalsScored"/>
                                                 </td>
                                                 <td property="summary">
                                                     <xsl:value-of select="//footballResult//summary/text()"/>
                                                 </td>
                                                 <td property="homeOrAway">
-                                                    <xsl:value-of select="//footballResult//@name"/>
+                                                    <xsl:value-of select="//footballResult//team//@name"/>
                                                 </td>
                                             </tr>
                                         </xsl:for-each>
